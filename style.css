@@ -1,0 +1,51 @@
+body{
+    background-color: purple;
+}
+.forsta{
+    float:left;
+    height: 400px;
+    width: 400px;
+   border-bottom: 5px solid rgb(222, 222, 107);
+   border-top: 10px solid rgb(222, 222, 107);
+   border-right: 5px solid rgb(222, 222, 107);
+   border-left: 10px solid rgb(222, 222, 107);
+}
+
+.andra{
+    float: right;
+    height: 400px;
+    width: 400px;
+    border-bottom: 5px solid rgb(222, 222, 107);
+   border-top: 10px solid rgb(222, 222, 107);
+   border-right: 10px solid rgb(222, 222, 107);
+   border-left: 5px solid rgb(222, 222, 107);
+}
+.tredje{
+    float: left;
+    height: 400px;
+    width: 400px;
+     border-bottom: 10px solid rgb(222, 222, 107);
+   border-top: 5px solid rgb(222, 222, 107);
+   border-right: 5px solid rgb(222, 222, 107);
+   border-left: 10px solid rgb(222, 222, 107);
+}
+.fjarde{
+    float: right;
+    height: 400px;
+    width: 400px;
+     border-bottom: 10px solid rgb(222, 222, 107);
+   border-top: 5px solid rgb(222, 222, 107);
+   border-right: 10px solid rgb(222, 222, 107);
+   border-left: 5px solid rgb(222, 222, 107);
+}
+.container{
+   margin: 0%auto;
+   height: 830px;
+   width: 830px;
+   
+ 
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
